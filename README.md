@@ -4,7 +4,7 @@
 
 ## Profile
 
-I am a senior engineer with a balanced experience in both applied and theoretical machine learning. My focus is on designing and integrating robust ML solutions, with particular expertise in natural language processing, cloud technologies, and software engineering practices. I leverage these skills to develop and maintain high-quality systems. I am committed to continuously exploring new ways to enhance my technical understanding, with the goal of further specializing in ML technologies.
+I am a senior engineer with a balanced experience in both applied and theoretical machine learning. My focus is on designing and integrating robust ML solutions, with particular expertise in natural language processing, cloud technologies, and software engineering practices. I am committed to continuously exploring new ways to enhance my technical understanding, with the goal of further specializing in ML technologies.
 
 ### Areas of Expertise
 
